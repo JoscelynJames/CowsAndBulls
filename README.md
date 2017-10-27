@@ -3,12 +3,14 @@
 A terminal based word game build with C++
 
 
-          }   {         ___ 
-          (o o)        (o o) 
-   /-------\\ /          \\ /-------\\ 
-  / | BULL |O            O| COW  | \\ 
-	 *  |-,--- |              |------|  * 
-	    ^      ^              ^      ^ 
+
+	std::cout << "          }   {         ___ " << std::endl;
+	std::cout << "          (o o)        (o o) " << std::endl;
+	std::cout << "   /-------\\ /          \\ /-------\\ " << std::endl;
+	std::cout << "  / | BULL |O            O| COW  | \\ " << std::endl;
+	std::cout << " *  |-,--- |              |------|  * " << std::endl;
+	std::cout << "    ^      ^              ^      ^ " << std::endl;
+
 
 
 How to play
